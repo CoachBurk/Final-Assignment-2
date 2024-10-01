@@ -1,6 +1,4 @@
-# Final-Assignment-2
-
-[Uploading DV010#!/usr/bin/env python
+#[Up#!/usr/bin/env python
 # coding: utf-8
 
 # In[ ]:
@@ -159,6 +157,7 @@ def update_output_container(selected_statistics,selected_year):
          # Hint:Use the columns Year and Automobile_Sales
         avr_vdata=yearly_data.groupby.......................
         Y_chart3 = dcc.Graph( figure.................,title='Average Vehicles Sold by Vehicle Type in the year {}'.format(input_year)))
+        
 
     # Total Advertisement Expenditure for each vehicle using pie chart
          # grouping data for plotting.
@@ -183,4 +182,5 @@ def update_output_container(selected_statistics,selected_year):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-1EN-Final-Assign-Part-2-Questions.py…]()
+loading DV0101EN-Final-Assign-Part-2-Questions (1).py…]()
+
